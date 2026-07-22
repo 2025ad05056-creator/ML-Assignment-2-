@@ -7,5 +7,5 @@ The application provides:
 - Prediction generation
 - Evaluation metrics for the selected model
 - Comparison of all implemented models
-
+- Important link : http://localhost:8501/
 ---
